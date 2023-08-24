@@ -13,5 +13,5 @@
 - 🧑🏾‍🎓 Student to the tech game.
 - 👯 I’m looking to collaborate on projects to learn more.
 - 💬 Ask me anything, hopefully, I can help.
-- 📫 How to reach me: 🐦@melvnquashie,✉️melvinquashie@outlook.com
+- 📫 How to reach me: 𝕏:[@melvnquashie](https://twitter.com/melvinquashie), ✉️: melvinquashie@outlook.com
 
