@@ -4,9 +4,9 @@
 **melvinquashie/melvinquashie** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile. -->
 
 <picture>
- <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/premium-vector/back-adventure-man-with-backpack-hiking-climbing-cartoon-character-flat-illustration_1150-39586.jpg?w=2000">
- <source media="(prefers-color-scheme: light)" srcset="https://img.freepik.com/premium-vector/back-adventure-man-with-backpack-hiking-climbing-cartoon-character-flat-illustration_1150-39586.jpg?w=2000">
- <img alt="YOUR-ALT-TEXT" src="https://img.freepik.com/premium-vector/back-adventure-man-with-backpack-hiking-climbing-cartoon-character-flat-illustration_1150-39586.jpg?w=2000">
+ <source media="(prefers-color-scheme: dark)" srcset="https://img.freepik.com/premium-vector/back-adventure-man-with-backpack-hiking-climbing-cartoon-character-flat-illustration_1150-39586.jpg?w=2000" width="50%" height="50%">
+ <source media="(prefers-color-scheme: light)" srcset="https://img.freepik.com/premium-vector/back-adventure-man-with-backpack-hiking-climbing-cartoon-character-flat-illustration_1150-39586.jpg?w=2000" width="50%" height="50%">
+ <img alt="YOUR-ALT-TEXT" src="https://img.freepik.com/premium-vector/back-adventure-man-with-backpack-hiking-climbing-cartoon-character-flat-illustration_1150-39586.jpg?w=2000" width="50%" height="50%">
 </picture>
 
 - 🔭 I'm an engineering and technology enthusiast.
