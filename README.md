@@ -9,7 +9,7 @@
  <img alt="YOUR-ALT-TEXT" src="https://img.freepik.com/premium-vector/back-adventure-man-with-backpack-hiking-climbing-cartoon-character-flat-illustration_1150-39586.jpg?w=2000" width="50%" height="50%">
 </picture>
 
-- 🔭 I'm an engineering and technology enthusiast.
+- 🔭 I'm an engineering and technology enthusiast and adventurer.
 - 🧑🏾‍🎓 Student to the tech game.
 - 👯 I’m looking to collaborate on projects to learn more.
 - 💬 Ask me anything, hopefully, I can help.
