@@ -11,7 +11,8 @@
 
 - 🔭 I'm an engineering and technology enthusiast and adventurer.
 - 🧑🏾‍🎓 Student to the tech game.
-- 👯 I’m looking to collaborate on projects to learn more.
+- 👯 I’m looking to collaborate on Data Analytics projects.
+- 🚀 Currently practicing SQL and Tableau
 - 💬 Ask me anything, hopefully, I can help.
 - 📫 How to reach me: 𝕏:[@melvnquashie](https://twitter.com/melvinquashie), ✉️: melvinquashie@outlook.com
 
