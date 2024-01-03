@@ -10,9 +10,9 @@
 </picture>
 
 - 🔭 I'm an engineering and technology enthusiast and adventurer.
-- 🧑🏾‍🎓 Student to the tech game.
+- 🧑🏾‍🎓 Aspiring Data Analyst/Engineer.
 - 👯 I’m looking to collaborate on Data Analytics projects.
-- 🚀 Currently practicing SQL and Tableau
+- 🚀 Tools: SQL, Tableau, and Python
 - 💬 Ask me anything, hopefully, I can help.
 - 📫 How to reach me: 𝕏:[@melvnquashie](https://twitter.com/melvinquashie), ✉️: melvinquashie@outlook.com
 
